@@ -1,0 +1,15 @@
+require(["config"],function(){
+	require(["header"],function(header){
+		header.init();
+	});
+	require(["footer"],function(footer){
+		footer.init();
+	});
+	require(["lunbotu"],function(lunbotu){
+		lunbotu.init();
+	});
+	require(["xxka","choose_goods"],function(xxka,choose_goods){
+		xxka.init();
+		choose_goods.init();
+	})
+})

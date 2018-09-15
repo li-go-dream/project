@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["header"],function(i){i.init()}),require(["footer"],function(i){i.init()}),require(["validation"],function(i){i.init()})});

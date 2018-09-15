@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["header"],function(i){i.init()}),require(["footer","buy_goods"],function(i,e){i.init(),e.init()})});

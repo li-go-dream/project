@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["header"],function(i){i.init()}),require(["footer"],function(i){i.init()}),require(["lunbotu"],function(i){i.init()}),require(["xxka","choose_goods"],function(i,n){i.init(),n.init()})});

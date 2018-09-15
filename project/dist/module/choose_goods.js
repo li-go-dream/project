@@ -1,0 +1,1 @@
+"use strict";define(function(){function o(){}return o.prototype.init=function(){$(".zx-shop .shop .shop-goods ul li a").on("click",function(o){var n=$(this).attr("index");document.cookie="goods_id="+n+";path=/"})},new o});

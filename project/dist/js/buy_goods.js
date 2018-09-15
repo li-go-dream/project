@@ -1,0 +1,1 @@
+"use strict";require(["config"],function(){require(["header","footer","buy_choose","fangda"],function(i,n,e,t){i.init(),n.init(),e.init(),t.init()})});

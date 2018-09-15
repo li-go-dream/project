@@ -1,0 +1,45 @@
+header {
+  width: 100%;
+  height: 40px;
+  background: #f8f8f8; }
+
+header nav {
+  width: 1263px;
+  min-height: 40px;
+  margin: 0 auto; }
+
+header nav ul {
+  min-height: 40px; }
+
+header nav ul li {
+  height: 40px;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 40px; }
+
+header nav ul li a {
+  color: #787878; }
+
+header nav ul li a:hover {
+  color: #050304; }
+
+header nav .nav-left {
+  float: left; }
+
+header nav .nav-left li {
+  float: left; }
+
+header nav .nav-right {
+  float: right; }
+
+header nav .nav-right li {
+  float: left; }
+
+header nav .nav-right li:nth-child(3) a {
+  display: inline-block;
+  padding: 0 8px; }
+
+header nav .nav-right li:nth-child(3) img {
+  margin-bottom: -8px;
+  margin-right: 2px; }
